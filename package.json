@@ -1,0 +1,21 @@
+{
+  "name": "twiter_mongodb_homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "server": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Sevak Tovmasyan",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.6",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.12",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
